@@ -12,3 +12,11 @@
 .nav-list{
     padding: 1rem;
 }
+
+@media (max-width : 696px){
+    .nav{
+        text-align: center;
+        flex-direction: column;
+        padding: 1rem;
+    }
+}
